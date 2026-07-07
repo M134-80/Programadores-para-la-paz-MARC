@@ -1,0 +1,9 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+Considero que el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git,
+tienen los siguientes elementos como común denominador: la transparencia en el manejo de la información,
+el respeto por la propiedad intelectual de cada participante o involucrado, además de la trazabilidad
+que se le puede dar a la información, evitando así desinformación, plagios o publicación de datos
+erroneos que puedan entorpecer el trabajo colaborativo, estropear la imagen de otra persona, causar caos
+en la comunidad u otros escenarios no deseados en una comunidad, en un trabajo colaborativo, etc.
