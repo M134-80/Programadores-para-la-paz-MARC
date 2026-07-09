@@ -1,0 +1,12 @@
+se ejecuta en postman el json: {
+  "tipo": "Alcantarillas tapadas",
+  "descripcion": "La comunidad reporta que algunas calles del sector se están inundando
+  debido a que las alcantarillas se encuentran tapadas"
+}
+con la URL http://localhost:3000/incidencia
+y aparece como resultado: {
+    "mensaje": "Incidencia registrada",
+    "tipo": "Alcantarillas tapadas",
+    "descripcion": "La comunidad reporta que algunas calles del sector se están inundando
+  debido a que las alcantarillas se encuentran tapadas"
+}
