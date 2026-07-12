@@ -1,0 +1,4 @@
+Proteger las contraseñas
+No compartir las contraseñas ni usuarios de acceso
+Actualiza el software constantemente
+Crear contraseñas seguras

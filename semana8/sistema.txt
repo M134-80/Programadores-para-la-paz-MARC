@@ -1,0 +1,7 @@
+Qué información muestra cada comando.
+- uname -a: Muestra la información del sistema y versión.
+- whoami: Muestra el nombre de usuario asociado a la sesión activa del sistema operativo.
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+Facilita rastrear intentos de instrusión violando la seguridad del sistema, preveer fallas en el sistema
+y permite mantener operando los servicios.
