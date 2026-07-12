@@ -1,0 +1,5 @@
+- Sistema operativo: Es el software principal de cualquier dispositivo.
+- Node.js:Permite ejecutar código del servidor.
+- Aplicación server.js: Es el archivo que contiene el script principal.
+- Puerto: Es el canal de comunicación dentro de la red.
+- Logs: Historial o registro de todo lo que se ejecuta dentro del programa.
