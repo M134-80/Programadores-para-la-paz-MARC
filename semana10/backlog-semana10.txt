@@ -1,0 +1,7 @@
+Como ciudadano quiero ingresar a un form donde pueda registrar las problematicas identificadas en el sector
+y las propuestas con las posibles soluciones.
+
+Como coordinador quiero recibir mensajes por correo electronico y una alerta en Telegram para revisar
+los registros nuevos.
+
+Como miembro del equipo quiero consultar reportes para hacer seguimiento de indicadores.

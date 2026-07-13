@@ -1,0 +1,8 @@
+Evento: Nuevo registro realizado.
+
+Acción: enviar mensaje a Telegram y por correo electrónico.
+
+Mensaje: “Nuevo registro realizado por un ciudadano. Revisa la plataforma”
+
+Información que no debe enviarse: nombres completos,documentos de identidad, direcciones, teléfonos,
+claves o datos sensibles.

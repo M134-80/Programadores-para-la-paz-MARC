@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+
+- Como ciudadano quiero ingresar a un form donde pueda registrar las problematicas identificadas en el sector
+y las propuestas con las posibles soluciones.
+
+- Como miembro del equipo quiero consultar reportes para hacer seguimiento de indicadores.
+
+¿Por qué son las más importantes?
+- La primera HU, porque permite que los ciudadanos puedan participar activamente.
+- La segunda HU, porque es importante que todos los miembros mantengan al día con los cambios e información
+recolectada en la plataforma.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Que el forms sea funcional.
+Que se realicen las pruebas requeridas para garantizar su correcta funcionalidad.
+Que Cada perfil cumpla con los permisos y restricciones requeridas.
