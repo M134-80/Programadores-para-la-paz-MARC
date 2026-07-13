@@ -1,0 +1,13 @@
+La interfaz debe tener una sección inicial para el logueo de los usuarios, con las validaciones
+pertinentes según su perfil, además de una sección para el registro de las problematicas identificadas
+con sus posibles soluciones, sección para la generación de reportes, etc. 
+
+También debe tener una lista de selección con la tipología de posibles problematicas a identificar.
+
+Cada sección debe tener sus respectivos botones de intereacción, ejemplo:
+- Login: Botón de ingresar, además de la opción de recuperar clave, por ejemplo.
+- Registrar: En el caso de los ciudadanos para ingresar las problematicas identificadas y posibles soluciones.
+- Generar reporte: Para consultar los reportes de regisros, debe tener campos de fechas para determinar
+  el rango de fechas del registro que se desea generar.
+
+La interfaz debe ser clara, sencilla y no debe mostrar información privada de los usuarios.

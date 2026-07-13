@@ -1,0 +1,11 @@
+Qué es el login en una aplicación.
+El login permite identificar al usuario que se está logueando, así mismo otorgará los permisos
+de acceso y restricciones según el perfil asignado.
+
+Por qué algunas rutas deben estar protegidas.
+Porque dependiendo del perfil asignado, de las funciones de cada usuario, sólo debería tener acceso
+y permisos a lo que le competa, por seguridad de la información y protección de datos. 
+
+Qué tipo de información no debería exponerse públicamente.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos,
+direcciones, tokens, claves de API ni datos sensibles de la comunidad.

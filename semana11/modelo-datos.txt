@@ -1,0 +1,27 @@
+Entidad: Causa
+
+Campos principales:
+- Id problematica (Automático)
+- Descripción de la problematica
+- Id (consecutivo) de las posibles soluciones a dicha problematica
+- fecha del registro (automático)
+- Botón de Guardar
+- Botón de consultar
+
+Propósito:
+Guardar las problematicas identificadas por los ciudadanos y sus propuestas con las posibles soluciones.
+
+
+Entidad: Apoyo (Seguimiento)
+
+Campos principales:
+- id registro de seguimiento
+- causa_id_problemática
+- Usuario que realizó el reporte
+- fecha del registro
+- Registro de las soluciones dadas a cada problemática
+- Avances del seguimiento realizado.
+
+Propósito:
+Registrar el seguimiento de todos los registros realizados por los ciudadanos, además del
+avance de los mismos.
