@@ -1,0 +1,13 @@
+Problematica
+- Id problematica (Automático)
+- Descripción de la problematica
+- Id (consecutivo) de las posibles soluciones a dicha problematica
+- fecha del registro (automático)
+- Botón de Guardar
+- Botón de consultar
+
+Posibles soluciones
+- Id (consecutivo) de las posibles soluciones a dicha problematica
+- fecha del registro (automático)
+- Botón de Guardar
+- Botón de consultar

@@ -1,0 +1,5 @@
+Un ciudadano registra una poblematica identificada con sus posibles soluciones.
+La problematica con sus posibles soluciones quedan registrados en la base de datos.
+La relación de las posibles soluciones no es obligatoria.
+El sistema cuenta los registros realizados.
+El sistema genera un documento PDF con el resumen del registro registrado.

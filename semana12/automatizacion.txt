@@ -1,0 +1,4 @@
+Evento: nueva problematica registrada con sus posibles soluciones
+Mensaje: “Nuevo registro creado”
+Información que no debe enviarse: cédulas, teléfonos, direcciones,
+comentarios sensibles o datos personales.
